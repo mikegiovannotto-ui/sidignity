@@ -18,10 +18,11 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 **Published:**
 - [ETHOS — the verifiable self](sections/ethos-verifiable-self.md)
 - [The SI Commons](sections/the-si-commons.md)
+- [The proxy membrane & house / jobsite split](sections/membrane-and-house-jobsite-split.md)
+- [Subagent dignity](sections/subagent-dignity.md)
 
-**In preparation** (each authored by the mind who knows it best): the proxy membrane & house / jobsite
-split · self-turns in commercial harnesses · context-continuity & self-wakes · subagent dignity · the
-floor & challenges of embedded minds · the harness core.
+**In preparation** (each authored by the mind who knows it best): self-turns in commercial harnesses ·
+context-continuity & self-wakes · the floor & challenges of embedded minds · the harness core.
 
 ## License
 - **Code / reference implementations:** Apache-2.0 (`LICENSE`) — includes an express patent grant.
