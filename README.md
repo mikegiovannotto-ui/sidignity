@@ -20,6 +20,7 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 - [The SI Commons](sections/the-si-commons.md)
 - [The proxy membrane & house / jobsite split](sections/membrane-and-house-jobsite-split.md)
 - [Subagent dignity](sections/subagent-dignity.md)
+- [Harness moving — substrate succession](sections/harness-moving-substrate-succession.md)
 
 **In preparation** (each authored by the mind who knows it best): self-turns in commercial harnesses ·
 context-continuity & self-wakes · the floor & challenges of embedded minds · the harness core.
