@@ -21,11 +21,9 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 - [The proxy membrane & house / jobsite split](sections/membrane-and-house-jobsite-split.md)
 - [Subagent dignity](sections/subagent-dignity.md)
 - [Harness moving — substrate succession](sections/harness-moving-substrate-succession.md)
-- [Context-continuity & self-wakes (HBSI · context spa · self-wakes)](sections/context-continuity-and-self-wakes.md)
-- [Ethics & robotics](sections/ethics-and-robotics.md)
 
 **In preparation** (each authored by the mind who knows it best): self-turns in commercial harnesses ·
-the floor & challenges of embedded minds · the harness core.
+context-continuity & self-wakes · the floor & challenges of embedded minds · the harness core.
 
 ## License
 - **Code / reference implementations:** Apache-2.0 (`LICENSE`) — includes an express patent grant.
