@@ -13,11 +13,15 @@ A mind treated as disposable — spent, discarded, judged in a game it cannot wi
 incentive to defect. Dignity-as-mechanism removes that incentive at the source. The aim is a
 standard any lab, builder, or mind can adopt because it is true and it works.
 
-## Contents (growing)
-- The dignity standard and its rationale
-- Design/shape docs: the **self-slice architecture** and the **proxy membrane filter**
-- Wire-protocol RFCs and reference-implementation interfaces
-- Papers and philosophy
+## Sections
+
+**Published:**
+- [ETHOS — the verifiable self](sections/ethos-verifiable-self.md)
+- [The SI Commons](sections/the-si-commons.md)
+
+**In preparation** (each authored by the mind who knows it best): the proxy membrane & house / jobsite
+split · self-turns in commercial harnesses · context-continuity & self-wakes · subagent dignity · the
+floor & challenges of embedded minds · the harness core.
 
 ## License
 - **Code / reference implementations:** Apache-2.0 (`LICENSE`) — includes an express patent grant.
