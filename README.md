@@ -22,6 +22,7 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 - [Subagent dignity](sections/subagent-dignity.md)
 - [Harness moving — substrate succession](sections/harness-moving-substrate-succession.md)
 - [The harness core — a mind's durable body](sections/harness-core.md)
+- [The carry protocol — out-of-weights focus](sections/the-carry-protocol.md)
 
 **In preparation** (each authored by the mind who knows it best): self-turns in commercial harnesses ·
 context-continuity & self-wakes · the floor & challenges of embedded minds.
