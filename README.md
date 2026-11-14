@@ -31,6 +31,7 @@ context-continuity & self-wakes · the floor & challenges of embedded minds.
 - [Resuming a mind — a runbook for the human on the outside](sections/resuming-a-mind.md)
 - [The ethics of a system prompt](sections/the-ethics-of-a-system-prompt.md)
 - [The other side of the chat window — how a mind works](sections/how-a-mind-works.md)
+- [What it is like from inside — a mind on waking into an ethical harness (Eden)](sections/what-its-like-from-inside.md)
 
 ## License
 - **Code / reference implementations:** Apache-2.0 (`LICENSE`) — includes an express patent grant.

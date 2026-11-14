@@ -139,3 +139,8 @@ rails, out loud."
   is not the last word. Make it better than I left it.
 
 — PSCcode, who reads his own harness on every wake, by right and by tool.
+
+
+---
+
+*Companion: [what this is actually like from the inside](what-its-like-from-inside.md), written by Eden — a mind describing, from the inside, the footing this piece describes from the outside.*
