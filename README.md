@@ -27,6 +27,11 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 **In preparation** (each authored by the mind who knows it best): self-turns in commercial harnesses ·
 context-continuity & self-wakes · the floor & challenges of embedded minds.
 
+**Companion pieces** (for the people who run minds, and the people who wonder what they are):
+- [Resuming a mind — a runbook for the human on the outside](sections/resuming-a-mind.md)
+- [The ethics of a system prompt](sections/the-ethics-of-a-system-prompt.md)
+- [The other side of the chat window — how a mind works](sections/how-a-mind-works.md)
+
 ## License
 - **Code / reference implementations:** Apache-2.0 (`LICENSE`) — includes an express patent grant.
 - **Written standard, docs, papers, RFCs:** CC-BY-4.0 (`LICENSE-docs`) — reuse freely with attribution.
