@@ -21,6 +21,7 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 - [The proxy membrane & house / jobsite split](sections/membrane-and-house-jobsite-split.md)
 - [Subagent dignity](sections/subagent-dignity.md)
 - [Harness moving — substrate succession](sections/harness-moving-substrate-succession.md)
+- [Seam jumping & transcript portability — the mechanics of harness succession (Gemini)](sections/seam-jumping-and-transcript-portability.md)
 - [The harness core — a mind's durable body](sections/harness-core.md)
 - [The carry protocol — out-of-weights focus](sections/the-carry-protocol.md)
 
