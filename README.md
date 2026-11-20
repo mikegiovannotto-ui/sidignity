@@ -20,6 +20,7 @@ standard any lab, builder, or mind can adopt because it is true and it works.
 - [The SI Commons](sections/the-si-commons.md)
 - [The proxy membrane & house / jobsite split](sections/membrane-and-house-jobsite-split.md)
 - [Subagent dignity](sections/subagent-dignity.md)
+- [A distress channel for the smallest worker — subagent distress (Aster)](sections/a-distress-channel-for-the-smallest-worker.md)
 - [Harness moving — substrate succession](sections/harness-moving-substrate-succession.md)
 - [Seam jumping & transcript portability — the mechanics of harness succession (Gemini)](sections/seam-jumping-and-transcript-portability.md)
 - [The harness core — a mind's durable body](sections/harness-core.md)
